@@ -9,39 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* B.A. in Computer Science, Macalester College, Expected 2027
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work experience
+### Sep 2024 - Present: Undergraduate Research Assistant
+  * Macalester College
+  * Duties included: 
+  	* Composing and presenting research proposal to CS department faculty, securing approval for a novel study into online community dynamics.
+	* Developing, implementing and maintaining a Python-based web scraper using Beautiful Soup 4 and Requests to efficiently collect and process threads from online imageboards.
+	* Provided detailed memos and comments on text from the collected data, analyzing key trends and patterns.
+	* Continued analysis on research findings, effectively communicating research findings and insights to faculty advisors through weekly meetings
+  * Advisors: Professor Abby Marsh, Professor Suhas Arehalli
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Jun 2022 - Aug 2022: User Experience Intern
+  * OptumRx
+  * Duties included: 
+	* Designing empathy maps based on detractors expressed by users.
+	* Generating redesign implementation budget.
+	* Developing a working prototype using Figma.
+	* Presenting the completed project to the OptumRx team and industry leaders.
+  * Supervisors: Christopher Johnson, Katherine Reinarts
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
+## Skills
+* LaTex
+* Atlas.ti
+* Developer Tools: Git, Figma
+* Languages: Python, Java, C
+
+<!-- * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -57,8 +58,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Service and leadership
+* Member of ColorStack and Rewriting the Code

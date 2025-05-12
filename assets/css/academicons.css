@@ -5,18 +5,18 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
-    font-family: 'Academicons';
+    font-family: 'NeueHaasDisplayRoman';
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
+    src:url('../fonts/NeueHaasDisplayRoman.ttf') format('truetype');
+    /* src:url('../fonts/academicons.eot') format('embedded-opentype'),
         url('../fonts/academicons.ttf') format('truetype'),
         url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+        url('../fonts/academicons.svg') format('svg'); */
 }
 .ai {
-  font-family: 'Academicons';
+  font-family: 'NeueHaasDisplayRoman';
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -24,7 +24,7 @@
   font-style: normal;
   font-variant: normal;
   text-rendering: auto;
-  line-height: 1;
+  line-height: 1.15;
 }
 .ai-academia:before {
   content: "\e9af";

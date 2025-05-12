@@ -6,7 +6,6 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
@@ -35,6 +34,7 @@
 }
 
 .page__title {
+	padding-left: 1.25em;
   margin-top: 0;
   line-height: 1;
 
@@ -49,13 +49,15 @@
 }
 
 .page__content {
-
+	padding-left: 2em;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -220,7 +222,6 @@
   text-transform: uppercase;
 }
 
-
 /*
    Page meta
    ========================================================================== */
@@ -245,7 +246,6 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
 
 /*
    Page taxonomy
@@ -275,7 +275,6 @@
     color: var(--global-link-color-hover);
   }
 }
-
 
 /*
    Comments
@@ -371,7 +370,6 @@
     text-decoration: none;
   }
 }
-
 
 /*
    Related

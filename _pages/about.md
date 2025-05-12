@@ -1,13 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi! I'm Moyartu Manley, a junior majoring in Computer Science. Currently, I am undergraduate researcher at Macalester, in the [MSCS Department](https://www.macalester.edu/mscs/). Advised by [Abby Marsh](https://www.abbymarsh.com/) and [Suhas Arehalli](https://sarehalli.github.io/), my research sits at the intersection of Computational Social Science, Human-Computer Interaction, and Sociology. 
+
+I'm particularly interested in:
+* How individuals form connections online, whether it's with another individual or with an entire group, and how is that relationship maintained?
+* In what ways do online communities provide social support and a sense of belonging for individuals with shared identities or interests?
+* In what ways do individuals negotiate multiple group affiliations and potential intergroup conflict online?
+* How does the level of linguistic homophily within a group relate to its cohesiveness, longevity, and resistance to external influence?
+* How does the evolution of language within online groups serve as a marker of identity and a barrier to entry for newcomers?
+
+My current research delves into the dynamics of niche internet subgroups, specifically how they use language to signal in-group/out-group belonging, maintain ideological cohesion, and cultivate supportive (or judgmental) environments. I plan to develop this work into my senior Honors Thesis, so stay tuned for updates!
+
+Besides research, I'm also exploring User-Experience (UX) design and have experience with Figma. You can see examples of my UX work and learn more about my design thinking in my UX portfolio linked above!
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
