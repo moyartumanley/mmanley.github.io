@@ -2,6 +2,7 @@
 .cv-container {
   max-width: 1000px;
   margin: 0 auto;
+  margin-left: 3em;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #333;
   line-height: 1.6;

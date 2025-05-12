@@ -1,65 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Moyartu Manley",
+    "email": "moyartu.manley1@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://moyartumanley.github.io",
+    "summary": "Currently employed at Macalester College. Undergraduate Researcher @ MSCS Department",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Saint Paul, MN",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "moyartumanley",
+        "url": "https://github.com/moyartumanley"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "moyartu-manley",
+        "url": "https://www.linkedin.com/in/moyartu-manley"
       }
     ]
   },
   "work": [],
-  "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
+  "education": [],
   "skills": [],
   "languages": [],
   "interests": [],
