@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Attached](/files/cv.pdf.pdf) is a link to my resume if you would like something more concise!
+
 ## Education
 * B.A. in Computer Science, Macalester College, Expected 2027
 

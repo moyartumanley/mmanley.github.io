@@ -14,7 +14,7 @@ I'm particularly interested in:
 * In what ways do individuals negotiate multiple group affiliations and potential intergroup conflict online?
 * How does the level of linguistic homophily within a group relate to its cohesiveness, longevity, and resistance to external influence?
 
-My current research delves into the dynamics of niche internet subgroups, specifically how they use language to signal in-group/out-group belonging, maintain ideological cohesion, and cultivate supportive (or judgmental) environments. I plan to develop this work into my senior Honors Thesis, so stay tuned for updates!
+My current research delves into the dynamics of niche internet subgroups, specifically how they use language to signal in-group/out-group belonging, maintain ideological cohesion, and cultivate supportive (or judgmental) environments. I plan to develop this work into my [Honors Thesis](https://www.macalester.edu/mscs/majorsminors/honorsprocedures/), so stay tuned for updates!
 
 Besides research, I'm also exploring User-Experience (UX) design and have experience with Figma. My current UX portfolio is a work in progress, but you learn more about my design thinking [there](https://moyartumanley.github.io/mmanley/) or linked above!
 
