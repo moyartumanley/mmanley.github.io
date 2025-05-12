@@ -10,11 +10,9 @@ redirect_from:
 Hi! I'm Moyartu Manley, a junior majoring in Computer Science. Currently, I am undergraduate researcher at Macalester, in the [MSCS Department](https://www.macalester.edu/mscs/). Advised by [Abby Marsh](https://www.abbymarsh.com/) and [Suhas Arehalli](https://sarehalli.github.io/), my research sits at the intersection of Computational Social Science, Human-Computer Interaction, and Sociology. 
 
 I'm particularly interested in:
-* How individuals form connections online, whether it's with another individual or with an entire group, and how is that relationship maintained?
 * In what ways do online communities provide social support and a sense of belonging for individuals with shared identities or interests?
 * In what ways do individuals negotiate multiple group affiliations and potential intergroup conflict online?
 * How does the level of linguistic homophily within a group relate to its cohesiveness, longevity, and resistance to external influence?
-* How does the evolution of language within online groups serve as a marker of identity and a barrier to entry for newcomers?
 
 My current research delves into the dynamics of niche internet subgroups, specifically how they use language to signal in-group/out-group belonging, maintain ideological cohesion, and cultivate supportive (or judgmental) environments. I plan to develop this work into my senior Honors Thesis, so stay tuned for updates!
 
