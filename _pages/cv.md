@@ -18,7 +18,6 @@ redirect_from:
 ### Sep 2024 - Present: Undergraduate Research Assistant
   * Macalester College
   * Duties included: 
-  	* Composing and presenting research proposal to CS department faculty, securing approval for a novel study into online community dynamics.
 	* Developing, implementing and maintaining a Python-based web scraper using Beautiful Soup 4 and Requests to efficiently collect and process threads from online imageboards.
 	* Provided detailed memos and comments on text from the collected data, analyzing key trends and patterns.
 	* Continued analysis on research findings, effectively communicating research findings and insights to faculty advisors through weekly meetings
