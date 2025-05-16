@@ -20,11 +20,11 @@ main:
   - title: "About Me"
     url: /about/
     
-  - title: "Portfolio"
-    url: https://moyartumanley.github.io/mmanley/
+  - title: "Projects"
+    url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "UX"
+    url: https://moyartumanley.github.io/mmanley/
     
   - title: "CV"
     url: /cv/
